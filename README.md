@@ -1,5 +1,7 @@
 # hot pepper chicken
 
+* [Check out this sweet video](https://www.youtube.com/shorts/GtqybCoTG3U)
+
 ![chx](https://github.com/devsecfranklin/badge-2017-hot-pepper-chicken/blob/main/images/hot_pepper_chicken.jpg?raw=true)
 
 ## Parts

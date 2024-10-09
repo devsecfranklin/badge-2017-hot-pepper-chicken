@@ -1,6 +1,6 @@
 # hot pepper chicken
 
-![chx](https://github.com/DEAD10C5/badge-2017-hot-pepper-chicken/blob/main/images/hot_pepper_chicken.jpg)
+![chx](https://github.com/devsecfranklin/badge-2017-hot-pepper-chicken/blob/main/images/hot_pepper_chicken.jpgi?raw=true)
 
 ## Parts
 

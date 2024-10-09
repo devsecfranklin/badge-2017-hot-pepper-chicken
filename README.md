@@ -3,9 +3,7 @@
 This is one of my favorite dishes, 辣椒雞 (Làjiāo jī).
 I put some spare electronics in the take out container and gifted
 it to someone but the TSA tore it apart because what if it's
-evil!?!?! 😅
-
-[<h2>Check out this sweet video</h2>](https://www.youtube.com/shorts/GtqybCoTG3U)
+evil!?!?! 😅 [Check out this sweet video](https://www.youtube.com/shorts/GtqybCoTG3U)
 
 ![chx](https://github.com/devsecfranklin/badge-2017-hot-pepper-chicken/blob/main/images/hot_pepper_chicken.jpg?raw=true)
 
